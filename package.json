@@ -1,0 +1,18 @@
+{
+  "name": "l1-norm",
+  "description": "Compute the Manhattan/Taxicab/l1 norm of a vector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "eveningkid/l1-norm",
+  "author": {
+    "name": "Arnaud Dellinger",
+    "url": "https://github.com/eveningkid"
+  },
+  "keywords": [
+    "manhattan",
+    "taxicab",
+    "l1",
+    "norm"
+  ],
+  "license": "MIT"
+}
